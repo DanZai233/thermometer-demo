@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+data/
+.env
+models/*.part
+
+# Local case material and generated artifacts
+samples/
+*.png
+*.jpg
+*.jpeg
+*.wav
+*.mp3
+*.aiff
+*.json
+.env.*
+.DS_Store
+.pytest_cache/
+models/
+!experiments/bam/provenance.json

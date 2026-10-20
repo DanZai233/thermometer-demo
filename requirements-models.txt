@@ -1,0 +1,7 @@
+torch>=2.6,<3
+torchvision>=0.21
+safetensors>=0.5
+timm>=1.0,<2
+yacs>=0.1.8
+PyYAML>=6
+jpeglib>=1.0

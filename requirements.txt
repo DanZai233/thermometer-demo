@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+Pillow>=10
+ImageHash>=4.3
+requests>=2.31
+numpy>=1.26
+
+-r requirements-models.txt
